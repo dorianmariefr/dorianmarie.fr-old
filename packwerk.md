@@ -163,7 +163,7 @@ The idea of `packwerk update-deprecations` is to "stop the bleeding" so that you
 You will also need to add `components` to your autoload paths, in `config/application.rb`:
 
 ```ruby
-config.autoload_paths += %W(#{config.root}/components)
+config.autoload_paths += Dir[Rails.root / "components/*/app/public"]
 ```
 
 ### Going further
