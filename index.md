@@ -7,4 +7,4 @@ title: ""
 
 ### [Linked words](/linked-words)
 
-### [How to use Packwerk to isolate components in your Rails app](/packwerk)
+### [Using Packwerk to isolate components in your Rails app](/packwerk)
