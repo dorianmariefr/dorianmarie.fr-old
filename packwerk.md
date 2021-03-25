@@ -160,6 +160,12 @@ We just added a dependency, that could try to remove if it doesn't make sense.
 
 The idea of `packwerk update-deprecations` is to "stop the bleeding" so that you can migrate to isolated components and then work to make them more isolated during refactoring.
 
+You will also need to add `components` to your autoload paths, in `config/application.rb`:
+
+```ruby
+config.autoload_paths += %W(#{config.root}/components)
+```
+
 ### Going further
 
 You can then define multiple components, have dependencies between components, etc.
