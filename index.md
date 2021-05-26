@@ -10,6 +10,7 @@ title: Dorian Marié
 <li><i class="fab fa-facebook fa-fw text-facebook"></i> <a href="https://facebook.com/dorianmariefr">Dorian Marié</a></li>
 <li><i class="fab fa-reddit fa-fw text-reddit"></i> <a href="https://reddit.com/u/dorianmariefr">/u/dorianmariefr</a></li>
 <li><i class="fas fa-couch fa-fw text-couchsurfing"></i> <a href="https://www.couchsurfing.com/users/2012917976">Dorian Marié</a></li>
+<li><i class="fas fa-y-combinator fa-fw text-y-combinator"></i> <a href="https://news.ycombinator.com/user?id=dorianmariefr">dorianmariefr</a></li>
 <li><i class="fab fa-linkedin fa-fw text-linkedin"></i> <a href="https://www.linkedin.com/in/dorian-marié-948b001a2">Dorian Marié</a></li></ul>
 
 # Pages
