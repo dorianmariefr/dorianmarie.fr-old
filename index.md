@@ -20,6 +20,8 @@ title: Dorian Marié
 {% for page in site.pages %}
 {% if page.title and page.url != "/" %}
 <li>
+{% if page.locale == "en" %}🇬🇧{% endif %}
+{% if page.locale == "fr" %}🇫🇷{% endif %}
 <a href="{{ page.url }}">
 {{ page.title }}
 </a>
