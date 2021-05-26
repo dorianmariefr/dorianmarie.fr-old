@@ -7,7 +7,7 @@ title: ""
 {% if page.title and page.url != "/" %}
 <li>
 <a href="{{ page.url }}">
-{{ page.title }} {{ page.url }}
+{{ page.title }}
 </a>
 </li>
 {% endif %}
