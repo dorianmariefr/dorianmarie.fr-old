@@ -23,6 +23,16 @@ pre {
   margin-bottom: 1rem;
 }
 
+pre, code {
+  border-radius: 0.25rem;
+  white-space: pre-wrap;
+}
+
 pre {
-  padding: 1rem;
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+}
+
+code {
+  padding: 0.5rem;
 }
