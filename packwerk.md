@@ -1,5 +1,5 @@
 ---
-title: Using Packwerk to isolate components in your Rails app
+title: Packwerk
 ---
 
 I want to write how I would use packwerk because we might use at work (Doctolib) and with the goal to contribute to packwerk's documentation.
