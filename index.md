@@ -6,7 +6,7 @@ title: ""
 {% for page in site.pages %}
 <li>
 <a href="{{ page.url }}">
-{{ page.title }}
+{{ page.title }} {{ page.url }}
 </a>
 </li>
 {% endif %}
