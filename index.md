@@ -2,15 +2,15 @@
 title: Dorian Marié
 ---
 
-<ul><li><i class="fas fa-envelope text-red-600"></i> <a href="mailto:dorian@dorianmarie.fr">dorian@dorianmarie.fr</a></li>
-<li><i class="fas fa-phone text-green-600"></i> <a href="tel:+33767239573">+33 7 67 23 95 73</a></li>
+<ul><li><i class="fas fa-envelope fa-fw text-red-600"></i> <a href="mailto:dorian@dorianmarie.fr">dorian@dorianmarie.fr</a></li>
+<li><i class="fas fa-phone fa-fw text-green-600"></i> <a href="tel:+33767239573">+33 7 67 23 95 73</a></li>
 <li><i class="fas fa-map-marker text-yellow-600"></i> Paris, France</li>
-<li><i class="fab fa-twitter text-twitter"></i> <a href="https://twitter.com/dorianmariefr">@dorianmariefr</a></li>
-<li><i class="fab fa-github text-github"></i> <a href="https://github.com/dorianmariefr">@dorianmariefr</a></li>
-<li><i class="fab fa-facebook text-facebook"></i> <a href="https://facebook.com/dorianmariefr">Dorian Marié</a></li>
-<li><i class="fab fa-reddit text-reddit"></i> <a href="https://reddit.com/u/dorianmariefr">/u/dorianmariefr</a></li>
-<li><i class="fas fa-couch text-couchsurfing"></i> <a href="https://www.couchsurfing.com/users/2012917976">Dorian Marié</a></li>
-<li><i class="fab fa-linkedin text-linkedin"></i> <a href="https://www.linkedin.com/in/dorian-marié-948b001a2">Dorian Marié</a></li></ul>
+<li><i class="fab fa-twitter fa-fw text-twitter"></i> <a href="https://twitter.com/dorianmariefr">@dorianmariefr</a></li>
+<li><i class="fab fa-github fa-fw text-github"></i> <a href="https://github.com/dorianmariefr">@dorianmariefr</a></li>
+<li><i class="fab fa-facebook fa-fw text-facebook"></i> <a href="https://facebook.com/dorianmariefr">Dorian Marié</a></li>
+<li><i class="fab fa-reddit fa-fw text-reddit"></i> <a href="https://reddit.com/u/dorianmariefr">/u/dorianmariefr</a></li>
+<li><i class="fas fa-couch fa-fw text-couchsurfing"></i> <a href="https://www.couchsurfing.com/users/2012917976">Dorian Marié</a></li>
+<li><i class="fab fa-linkedin fa-fw text-linkedin"></i> <a href="https://www.linkedin.com/in/dorian-marié-948b001a2">Dorian Marié</a></li></ul>
 
 # Pages
 
