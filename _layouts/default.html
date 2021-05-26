@@ -14,7 +14,10 @@
         dorianmarie.fr
       </a>
     </h1>
-    <h2>{{ page.title }}</h2>
+    <h2>
+      {% if page.locale == "en" %}🇬🇧{% endif %}
+      {% if page.locale == "fr" %}🇫🇷{% endif %}
+      {{ page.title }}</h2>
     {{ content }}
   </body>
 </html>

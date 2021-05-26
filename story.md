@@ -1,5 +1,6 @@
 ---
 title: Story of my life
+locale: em
 ---
 
 **2021**

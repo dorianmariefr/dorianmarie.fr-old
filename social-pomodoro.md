@@ -1,5 +1,6 @@
 ---
 title: Social pomodoro
+locale: en
 ---
 
 ### Simplest way possible
