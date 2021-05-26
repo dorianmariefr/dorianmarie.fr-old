@@ -9,5 +9,5 @@ title: ""
 {{ page.title }}
 </a>
 </li>
-{% endif %}
+{% endfor %}
 </ul>
