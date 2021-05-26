@@ -1,5 +1,5 @@
 ---
-title: story of my life
+title: Story of my life
 ---
 
 **2021**
