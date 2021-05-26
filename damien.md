@@ -16,6 +16,10 @@ Quand on sautait de tremplins en vélo.
 
 Quand il est venu à l'hopital de jour le mercredi après midi pour voir les vêtements et qu'il a acheté un chapeau, une veste, des chaussures, et une canne et il avait trop la classe.
 
+Quand on jouait aux billes à l'école primaire, et aux cartes Pokémon.
+
+Quand on a acheté des cartes yugioh et qu’elles étaient en Korean ou japonais et qu’on inventaient ce qu’elles voulaient dire
+
 # Laurie Marié
 
 Quand il a fait son jeu de dooble et que j'ai voulu faire une vidéo avec lui. Le plus important c'était le bruit de la paire de sciceaux. Il avait mis ça sur Kickstarter. Et du coup pour Noel il m'a offert un jeu. Après il a offert à tout le monde des jeux comme ça et il les avait tous découpés.
