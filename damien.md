@@ -43,6 +43,18 @@ Suite à un problème dans un exercice de mathématiques en 1ère, notre profess
 
 Il était venu me voir à l'hopital le jour du mariage d'Alexis. Il était tellement heureux je l'admirais beaucoup.
 
+Quand j'ai voulu l'impressioné à la fnac d'Amiens en choisissant un livre sur la programmation et qu'il ma dit de plutôt prendre C++ pour les nuls qui a été ma première introduction à la programmation.
+
+Quand on jouait à cache-cache en vélo dans Crevecoeur avec Gael et Frederic.
+
+Quand il voulait faire "quoi faire" comme application pour savoir quoi faire.
+
+Quand il envoyait des emails aux députés, aux sénateurs, à l'assemblé et au sénat pour leur proposer ces outils et corriger les fautes dans les lois.
+
+Quand il nous a ammené à une manifestation de gilets jaunes à Amiens avec son idôle François Rufin.
+
+Quand on a fait son emmenagement et son déménagement à Picigny.
+
 # Laurie Marié
 
 Quand il a fait son jeu de dooble et que j'ai voulu faire une vidéo avec lui. Le plus important c'était le bruit de la paire de sciceaux. Il avait mis ça sur Kickstarter. Et du coup pour Noel il m'a offert un jeu. Après il a offert à tout le monde des jeux comme ça et il les avait tous découpés.
