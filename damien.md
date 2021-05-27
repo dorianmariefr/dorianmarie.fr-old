@@ -19,7 +19,23 @@ Quand il est venu à l'hopital de jour le mercredi après midi pour voir les vê
 
 Quand on jouait aux billes à l'école primaire, et aux cartes Pokémon.
 
-Quand on a acheté des cartes yugioh et qu’elles étaient en Korean ou japonais et qu’on inventaient ce qu’elles voulaient dire
+Quand on a acheté des cartes yugioh et qu’elles étaient en Korean ou japonais et qu’on inventaient ce qu’elles voulaient dire.
+
+Quand j'ai fait un programme (git tree) en ruby et qu'il l'a améliorer alors qu'il faisait plutôt du python. Puis deux ans plus tard il a retrouvé un programme similaire et l'a modifié pour qu'il fonctionne.
+
+Quand il faisait ses jeux vidéo, dont un basé sur des dessins, et un où on rangait la vaisellle.
+
+Quand il avait inventé un nouveau système de vote.
+
+Quand on a fêté notre anniversaire à New York avec une fontaine de chocolat dans un magasin de bonbons.
+
+Quand il m'a accompagné à l'aéroport quand je partais de New York.
+
+Quand il m'a dit que si on prenait une photo et qu'on pouvait trouver la méme photo sur internet alors la photo n'etais pas interessante.
+
+Quand on jouait aux jeux vidéo ensemble: surviv.io, shellshocker, burnout takedown, 007, ronaldo v football, urban terror, teeworlds, etc.
+
+C'est lui qui m'a fait découvrir reddit, hacker news, lobsters, etc.
 
 # Laurie Marié
 
