@@ -37,6 +37,12 @@ Quand on jouait aux jeux vidéo ensemble: surviv.io, shellshocker, burnout taked
 
 C'est lui qui m'a fait découvrir reddit, hacker news, lobsters, etc.
 
+Quand on était petit il m'avait montré un programme que je pensais impossible à faire, il avait devine les boucles en basic.
+
+Suite à un problème dans un exercice de mathématiques en 1ère, notre professeur Mr Chervin, nous avait demandé de trouver la vraie solution. Damien avait fait une simulation en python et moi en JavaScript. (combien de quadrilatère avec n points).
+
+Il était venu me voir à l'hopital le jour du mariage d'Alexis. Il était tellement heureux je l'admirais beaucoup.
+
 # Laurie Marié
 
 Quand il a fait son jeu de dooble et que j'ai voulu faire une vidéo avec lui. Le plus important c'était le bruit de la paire de sciceaux. Il avait mis ça sur Kickstarter. Et du coup pour Noel il m'a offert un jeu. Après il a offert à tout le monde des jeux comme ça et il les avait tous découpés.
