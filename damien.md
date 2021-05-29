@@ -55,6 +55,8 @@ Quand il nous a ammené à une manifestation de gilets jaunes à Amiens avec son
 
 Quand on a fait son emmenagement et son déménagement à Picigny.
 
+On programmer ensemble au téléphone à l'hopital.
+
 # Laurie Marié
 
 Quand il a fait son jeu de dooble et que j'ai voulu faire une vidéo avec lui. Le plus important c'était le bruit de la paire de sciceaux. Il avait mis ça sur Kickstarter. Et du coup pour Noel il m'a offert un jeu. Après il a offert à tout le monde des jeux comme ça et il les avait tous découpés.
