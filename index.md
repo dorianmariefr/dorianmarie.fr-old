@@ -1,11 +1,6 @@
 ---
 title: Dorian Marié
-display-title: false
 ---
-
-<div style="display: flex"><div style="margin-right: 40px;">
-
-<h2>Dorian Marié</h2>
 
 <ul><li><i class="fas fa-envelope fa-fw text-red-600"></i> <a href="mailto:dorian@dorianmarie.fr">dorian@dorianmarie.fr</a></li>
 <li><i class="fas fa-phone fa-fw text-green-600"></i> <a href="tel:+33767239573">+33 7 67 23 95 73</a></li>
@@ -18,8 +13,6 @@ display-title: false
 <li><i class="fab fa-y-combinator fa-fw text-y-combinator"></i> <a href="https://news.ycombinator.com/user?id=dorianmariefr">dorianmariefr</a></li>
 <li><i class="fas fa-square fa-fw text-lobsters"></i> <a href="https://lobste.rs/u/dorianmariefr">/u/dorianmariefr</a></li>
 <li><i class="fab fa-linkedin fa-fw text-linkedin"></i> <a href="https://www.linkedin.com/in/dorian-marié-948b001a2">Dorian Marié</a></li></ul>
-
-</div><div>
 
 <h2>Pages</h2>
 
@@ -36,5 +29,3 @@ display-title: false
 {% endif %}
 {% endfor %}
 </ul>
-
-</div></div>
