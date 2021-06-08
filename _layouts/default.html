@@ -14,9 +14,11 @@
         dorianmarie.fr
       </a>
     </h1>
-    <h2>
-      {{ page.title }}
-    </h2>
+    {% unless page.display-title = false %}
+      <h2>
+        {{ page.title }}
+      </h2>
+    {% endunless %}
     {{ content }}
   </body>
 </html>
