@@ -1,6 +1,5 @@
 ---
 title: Engines
-locale: en
 ---
 
 - [Getting Started with Engines](https://guides.rubyonrails.org/engines.html) (rails guide)

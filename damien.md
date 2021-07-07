@@ -1,6 +1,6 @@
 ---
 title: Damien Marié
-locale: fr
+hidden: true
 ---
 
 1992 - 2021

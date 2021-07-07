@@ -1,6 +1,5 @@
 ---
 title: Programming on a phone
-locale: en
 ---
 
 <a href="/assets/images/programming-on-a-phone/bugsnag email.png"><img class="inline-block w-32" src="/assets/images/programming-on-a-phone/bugsnag email.png" alt="bugsnag email" /></a>

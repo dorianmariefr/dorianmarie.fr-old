@@ -1,4 +1,3 @@
 ---
 title: Types
-locale: en
 ---

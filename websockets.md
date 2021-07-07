@@ -1,4 +1,3 @@
 ---
 title: Websockets
-locale: en
 ---

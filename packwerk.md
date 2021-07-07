@@ -1,6 +1,5 @@
 ---
 title: Packwerk
-locale: en
 ---
 
 I want to write how I would use packwerk because we might use at work (Doctolib) and with the goal to contribute to packwerk's documentation.

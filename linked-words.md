@@ -1,6 +1,5 @@
 ---
 title: Linked words
-locale: en
 ---
 
 **Each person takes turn saying a word that's related to the previous one until a word is repeated.**
