@@ -204,4 +204,14 @@ gem 'resque'
 config.active_job.queue_adapter = :resque
 ```
 
+And to launch resque:
 
+```
+QUEUE=* rake resque:work
+```
+
+And we can see in `redis-cli` with `monitor`:
+
+```
+1632571442.790531 [0 [::1]:63289] "rpush" "resque:queue:default" "{\"class\":\"ActiveJob::QueueAdapters::ResqueAdapter::JobWrapper\",\"args\":[{\"job_class\":\"TestingSerializationJob\",\"job_id\":\"8ae23a22-6e35-427d-bb30-ac0164cf2e41\",\"provider_job_id\":null,\"queue_name\":\"default\",\"priority\":null,\"arguments\":[1,{\"user\":{\"_aj_globalid\":\"gid://bank/User/1\"},\"_aj_ruby2_keywords\":[\"user\"]}],\"executions\":0,\"exception_executions\":{},\"locale\":\"en\",\"timezone\":\"UTC\",\"enqueued_at\":\"2021-09-25T12:04:02Z\"}]}"
+```
