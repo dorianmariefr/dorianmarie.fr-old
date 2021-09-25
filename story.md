@@ -1,5 +1,6 @@
 ---
 title: Story of my life
+hidden: true
 ---
 
 **2021**
