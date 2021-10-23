@@ -2,27 +2,18 @@
 title: Dorian Marié
 ---
 
-<ul><li><i class="fas fa-envelope fa-fw text-red-600"></i> <a href="mailto:dorian@dorianmarie.fr">dorian@dorianmarie.fr</a></li>
-<li><i class="fas fa-map-marker fa-fw text-yellow-600"></i> Paris, France</li>
-<li><i class="fab fa-twitter fa-fw text-twitter"></i> <a href="https://twitter.com/dorianmariefr">@dorianmariefr</a></li>
-<li><i class="fab fa-github fa-fw text-github"></i> <a href="https://github.com/dorianmariefr">@dorianmariefr</a></li>
-<li><i class="fab fa-facebook fa-fw text-facebook"></i> <a href="https://facebook.com/dorianmariefr">Dorian Marié</a></li>
-<li><i class="fab fa-reddit fa-fw text-reddit"></i> <a href="https://reddit.com/u/dorianmariefr">/u/dorianmariefr</a></li>
-<li><i class="fas fa-couch fa-fw text-couchsurfing"></i> <a href="https://www.couchsurfing.com/users/2012917976">Dorian Marié</a></li>
-<li><i class="fab fa-y-combinator fa-fw text-y-combinator"></i> <a href="https://news.ycombinator.com/user?id=dorianmariefr">dorianmariefr</a></li>
-<li><i class="fas fa-square fa-fw text-lobsters"></i> <a href="https://lobste.rs/u/dorianmariefr">/u/dorianmariefr</a></li>
-<li><i class="fab fa-linkedin fa-fw text-linkedin"></i> <a href="https://www.linkedin.com/in/dorianmariefr">Dorian Marié</a></li></ul>
+Hi 👋<br>
+I'm french 🇫🇷<br>
+I'm a programmer 🧑‍💻<br>
+I would like to work remotely 🏡<br>
+And move to San Francisco in the future 🌉<br>
 
-<h2>Pages</h2>
+I like working with: ❤️<br>
+<b>Ruby</b> with Ruby on Rails 💎<br>
+<b>Javascript</b> with React ⚛️<br>
+<b>SQL</b> with PostgreSQL 🐘<br>
 
-<ul>
-{% for page in site.pages %}
-{% if page.title and page.url != "/" and page.hidden != true %}
-<li>
-<a href="{{ page.url }}">
-{{ page.title }}
-</a>
-</li>
-{% endif %}
-{% endfor %}
-</ul>
+My email is <a href="mailto:dorian@dorianmarie.fr">dorian@dorianmarie.fr</a> ✉️<br>
+My professional GitHub is <a href="https://github.com/dorianmarie">@dorianmarie</a> 🌲<br>
+My personal GitHub is <a href="https://github.com/dorianmariefr">@dorianmariefr</a> 🌴<br>
+My Twitter is <a href="https://twitter.com/dorianmariefr">@dorianmariefr</a> 🐦<br>
