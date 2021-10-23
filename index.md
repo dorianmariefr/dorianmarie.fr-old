@@ -17,21 +17,7 @@ title: Dorian Marié
 
 <ul>
 {% for page in site.pages %}
-{% if page.title and page.url != "/" and page.hidden != true and page.todo != true %}
-<li>
-<a href="{{ page.url }}">
-{{ page.title }}
-</a>
-</li>
-{% endif %}
-{% endfor %}
-</ul>
-
-<h2>TODO</h2>
-
-<ul>
-{% for page in site.pages %}
-{% if page.todo == true %}
+{% if page.title and page.url != "/" and page.hidden != true %}
 <li>
 <a href="{{ page.url }}">
 {{ page.title }}
