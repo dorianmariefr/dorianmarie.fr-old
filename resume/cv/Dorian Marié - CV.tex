@@ -1,0 +1,68 @@
+\documentclass[11pt,a4paper,sans]{moderncv}
+\moderncvstyle{casual}
+\moderncvcolor{orange}
+\usepackage[utf8]{inputenc}
+\usepackage[scale=0.75]{geometry}
+\usepackage{graphicx}
+\usepackage{outlines}
+\setlength{\hintscolumnwidth}{1.75cm}
+\name{Dorian}{Marié}
+\title{Full Stack Developer}
+\phone[mobile]{+33 7 67 23 95 73}
+\email{dorian@dorianmarie.fr}
+\homepage{dorianmarie.fr}
+\social[linkedin]{dorianmariefr}
+\social[twitter]{dorianmariefr}
+\social[github]{dorianmariefr}
+\photo[64pt][0pt]{picture}
+
+\begin{document}
+\makecvtitle
+\vspace*{-5mm}
+
+\section{Experience}
+
+\cventry{2020--Present}{Full Stack Developper}{Doctolib}{Paris}{}{
+  Allows patients (\textasciitilde70M) to book doctors (\textasciitilde500k)\newline{}
+  And doctors to manage appointments (\textasciitilde2B)\newline{}
+  And more (video consultations (\textasciitilde11M), sharing of documents (\textasciitilde100M))
+  \begin{outline}
+    \1{Led a project for 1 month (place of birth for patients)}
+    \1{Presented at conferences inside and outside Doctolib (e.g. at RailsConf 2021) (rails engines, WebSocket, social pomodoro, linked words, optimizing search, packwerk)}
+    \1{As a team ranging from 3 to 5 programmers}
+      \2{Integrated video consultation into a new product in 1 month}
+      \2{Created a Virtual Printer to make it easier to upload documents for doctors (\textasciitilde1\% of physical consultations have a document shared)}
+  \end{outline}
+}
+
+\cventry{2016--2017}{Backend Engineer}{Trusted}{San Francisco}{}{
+  Find baby-sitters any time (\textasciitilde10k searches per day)
+  \begin{itemize}
+    \item{API for searches requested by parents when a babysitter was not found (\textasciitilde3k searches by day}
+    \item{Public API for the website (was iOS only, 2x more reachable people)}
+    \item{Changes to how prices are calculated, e.g. surges in weekends and certain areas}
+    \item{Opened in the bay area and in New York (had to handle two timezones)}
+  \end{itemize}
+}
+
+\cventry{2013--2015}{Software Engineer}{Bespoke Post}{New York}{}{
+  E-commerce company that sends a box every month to \textasciitilde100k+ subscribers\newline
+  Company grew by 10x revenue (and now much more) in two years
+  \begin{itemize}
+    \item{Transitioned the whole website from desktop-only to mobile-friendly (hundreds of pages)}
+    \item{Hierarchy of products for complex product selection (and those to sell and upsell more products)}
+    \item{Created a store to sell products individually (became \textasciitilde20\% of the revenue)}
+  \item{Introduced Angular.js for a complex gift card creation page, with 5 steps}
+  \end{itemize}
+}
+
+\section{Skills}
+
+\cvdoubleitem{Languages}{Ruby, JavaScript, SQL}{Tools}{Redis, PostgreSQL}
+\cvdoubleitem{Frameworks}{Ruby on Rails, React}{OS}{macOS, Linux}
+\cvdoubleitem{Platforms}{Heroku, AWS}{Random}{Unicycling, Painting, Knitting}
+
+\section{Education}
+\cventry{2010--2018}{Software Engineering}{University of Technology of Troyes}{Troyes, France}{}{}
+
+\end{document}
