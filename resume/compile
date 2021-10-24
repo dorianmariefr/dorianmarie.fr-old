@@ -2,14 +2,5 @@
 
 set -e
 
-if [ $# -eq 0 ]
-then
-  echo "USAGE: compile DIRECTORY"
-  exit
-fi
-
-cd $1
-
-xelatex *.tex || echo "compile: Failure"
+xelatex *.tex
 rm -rf *.aux *.out *.log
-echo "compile: Success"
