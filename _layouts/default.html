@@ -1,13 +1,21 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{{ page.title }}</title>
-    <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet" media="all">
+    <link
+      href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css"
+      rel="stylesheet"
+      media="all"
+    />
     <style>
-      a { text-decoration: underline; }
-      p { margin-bottom: 1rem; }
+      a {
+        text-decoration: underline;
+      }
+      p {
+        margin-bottom: 1rem;
+      }
     </style>
   </head>
   <body class="max-w-sm mx-auto p-4">
@@ -16,10 +24,12 @@
         <a href="/">dorianmarie.fr</a>
       </b>
       {% if page.url != "/" %}
-        <a href="mailto:dorian@dorianmarie.fr">dorian@dorianmarie.fr</a>
+      <a href="mailto:dorian@dorianmarie.fr">dorian@dorianmarie.fr</a>
       {% endif %}
     </p>
-    <p><b>{{ page.title }}</b></p>
+    <p>
+      <b>{{ page.title }}</b>
+    </p>
     {{ content }}
   </body>
 </html>
